@@ -1,0 +1,4 @@
+mapWidth: 2
+mapLength: 2
+maxCountAnimal: 10
+maxCountPlant: 50
